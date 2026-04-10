@@ -4,7 +4,7 @@
 
 Este proyecto contiene una pequeña API funcional en NestJS y SQLite. El objetivo de esta prueba es que realices algunos cambios y agregues funcionalidades nuevas.
 
-No necesitas tener experiencia previa con NestJS. Puedes revisar su documentación oficial, o preguntar si tienes dudas.
+Puedes revisar su documentación oficial, o preguntar si tienes dudas.
 
 ---
 
